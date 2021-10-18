@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭️ I'am aspiring Junior Full-Stack Web Developer currently learning Spring.
+- 🔭️ I'm aspiring Junior Full-Stack Web Developer currently learning Spring.
 - 💻 I love to learn new Technologies.
 - 👯 I’m looking to collaborate on openSource projects.
 
